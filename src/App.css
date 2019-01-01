@@ -1,0 +1,22 @@
+.App {
+  margin-top: 150px;
+  text-align: center;
+  border: 2px solid  brown;
+  width: 500px;
+  color:red;
+  height: 600px;
+  margin-left: 700px;
+  background: #845EC2;
+}
+.h{
+  color: #C34A36;
+  margin-top: 170px;
+  font-size: 60px;
+}
+.p{
+  margin-top: 10%;
+  color:#A8EB12;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 60px;
+  font-weight: bolder;
+}
